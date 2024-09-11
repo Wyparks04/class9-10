@@ -1,3 +1,4 @@
+Whitney Parks
 # Purpose of this repo
 A simple practice exercise for students in the Code:You Intro module. Students will be:
 - practicing using GitHub's markdown language
@@ -13,7 +14,7 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 3. Push the changes to you own repo.
 
 ## Tasks
-- [ ] Create a first level heading with your name
+- [] Create a first level heading with your name
 - [ ] Create a short "about you" text
 - [ ] Create a third level heading with the title "Hobbies"
 - [ ] Under hobbies, create a bulleted or numbered list with some of your hobbies.
